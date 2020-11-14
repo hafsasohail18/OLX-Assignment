@@ -1,0 +1,14 @@
+body {font-size: 14px; background-color: #ffffff !important;}
+
+.alignleft {
+    float: left;
+  }
+  
+  .alignright {
+    float: right;
+  }
+  
+  
+  .clear-both {
+    clear: both;
+  }
